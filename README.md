@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/KarpelesLab/gosd?status.svg)](https://godoc.org/github.com/KarpelesLab/gosd)
+
 # gosd
 
 Notify & stuff for go.
